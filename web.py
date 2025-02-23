@@ -1,5 +1,5 @@
 import os
-import pickle # pre trained model loading
+import pickle
 import streamlit as st    # web app
 from streamlit_option_menu import option_menu
 
